@@ -1,0 +1,9 @@
+* pdfreader
+
+Reading and rendering PDF files in Common Lisp.
+
+|---------+------------------------------------------------|
+| source  | git:https://github.com/splittist/pdfreader.git |
+| commit  | 472a31b                                        |
+| systems | pdfreader                                      |
+|---------+------------------------------------------------|
